@@ -1,5 +1,5 @@
 # SilverStripe Bootstrap Mix
-This theme utilizes Laravel Mix for building assets and makes it easy to focus on the development.
+This theme utilizes Laravel Mix - Webpack wrapper for building assets and makes it easy to focus on the development. By default it uses Bootstrap 4 but you are free to use anything else. You can also use Stylus instead of SASS if you like. Please refer Laravel Mix documentation [here](https://github.com/JeffreyWay/laravel-mix).
 
 ## Installation
 
