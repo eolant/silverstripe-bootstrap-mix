@@ -1,0 +1,7 @@
+@import 'global/variables';
+@import '~bootstrap/scss/bootstrap';
+
+body.mce-content-body,
+body.mceContentBody {
+  padding: $grid-gutter-width / 2;
+}

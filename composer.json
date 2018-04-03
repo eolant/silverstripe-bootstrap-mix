@@ -1,0 +1,24 @@
+{
+  "name": "eolant/silverstripe-bootstrap-mix",
+  "description": "The SilverStripe theme that uses Bootstrap 4 with Laravel Mix",
+  "type": "silverstripe-theme",
+  "keywords": ["silverstripe", "theme", "bootstrap", "mix"],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Vitaly Kasymov (eolant)",
+      "homepage": "http://eolant.me"
+    }
+  ],
+  "require": {
+    "composer/installers": "*",
+    "silverstripe/framework": ">=3.5"
+  },
+  "extra": {
+    "expose": [
+      "css",
+      "images",
+      "javascript"
+    ]
+  }
+}
