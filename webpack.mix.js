@@ -24,7 +24,7 @@ mix.browserSync({
         this.reload();
       }
     },
-    './assets/**/*.scss',
-    './assets/**/*.js'
+    './css/*.css',
+    './javascript/*.js'
   ]
 });
