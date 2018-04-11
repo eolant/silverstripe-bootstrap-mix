@@ -1,5 +1,5 @@
-# SilverStripe Bootstrap Mix
-This theme utilizes Laravel Mix for building assets and makes it easy to focus on the development.
+# SilverStripe 4 Bootstrap 4 Mix
+This is a boilerplate base theme for SilverStripe 4 that you can use for all your custom Boostrap 4 themes. It uses Laravel Mix for assets compilation and Browsersync for quick and easy development allowing you to focus on the task at hand, not worrying about front end tools. You can also easily replace Bootstrap for anything else. As well as use SASS, LESS, Stylus. Refer [this](https://github.com/JeffreyWay/laravel-mix) page for more details about Laravel Mix.
 
 ## Installation
 
